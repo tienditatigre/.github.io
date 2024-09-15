@@ -1,0 +1,437 @@
+/*
+	@name web_1920___1
+*/
+/* Only edit this if you know what you are doing! */
+body { margin: 0px; padding: 0px; font-family:"Arial"; overflow-x:hidden; }
+
+/* Only edit this if you know what you are doing! */
+img { position: absolute; display: block; margin: 0px; border: none; padding: 0px; }
+
+/* Only edit this if you know what you are doing! */
+div { position: absolute; }
+
+#content-container { display: table; position: relative; width: 1920px; width: 1920px; height: 1080px; overflow: hidden; display: block;  margin-left: auto; margin-right: auto;  }
+
+#_bg__web_1920___1 {
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 1080px;
+	background:rgba(255,255,255,255);
+}
+
+
+#rect_ngulo_1 {
+	top: 0px;
+	left: 0px;
+	width: 1922px;
+	height: 65px;
+	border: 1px solid #0089ff;
+	background:rgba(0,206,255,255);
+}
+
+
+#rect_ngulo_3 {
+	top: 184px;
+	left: 0px;
+	width: 1922px;
+	height: 894px;
+	border: 1px solid #0089ff;
+	background:rgba(0,206,255,255);
+}
+
+#grupo_169 {
+	top: 184px;
+	left: -21.523567199707px;
+	width: 2008.5235595703px;
+	height: 909px;
+}
+
+#trazado_1 {
+	top: 683px;
+	left: 4px;
+	width: 2005px;
+	height: 226px;
+}
+
+
+#trazado_2 {
+	top: 0px;
+	left: 0px;
+	width: 1963.0471191406px;
+	height: 95.828002929688px;
+}
+
+
+#rect_ngulo_2 {
+	top: 66px;
+	left: -70px;
+	width: 2000px;
+	height: 121px;
+	-ms-box-shadow:0px 7px 10px 1px rgba(0,0,0,0.41);
+	-o-box-shadow:0px 7px 10px 1px rgba(0,0,0,0.41);
+	-webkit-box-shadow:0px 7px 10px 1px rgba(0,0,0,0.41);
+	-moz-box-shadow:0px 7px 10px 1px rgba(0,0,0,0.41);
+	box-shadow:0px 7px 10px 1px rgba(0,0,0,0.41);
+	background:rgba(255,255,255,255);
+}
+
+
+#logo_tiendita1_02 {
+	top: 83px;
+	left: 104px;
+	width: 345px;
+	height: 82px;
+}
+
+
+#p_delo_en_l_nea__rec_belo_en_tu_doyang {
+	top: 19px;
+	left: 138px;
+	width: 780px;
+	height: 59.5px;
+	overflow: hidden;
+	font-family: Metropolis;
+	font-size: 35px;
+	font-weight: bold;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#__cont_ctanos__lunes_a_viernes_de_9_00_am_a_4_00_pm {
+	top: 23px;
+	left: 895px;
+	width: 544px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Metropolis;
+	font-size: 20px;
+	font-weight: bold;
+	text-align: left;
+	color:#ffffff;
+}
+
+#grupo_156 {
+	top: 101.61001586914px;
+	left: 644.62634277344px;
+	width: 168.37365722656px;
+	height: 42.389984130859px;
+}
+
+#_escolar {
+	top: 6px;
+	left: 62px;
+	width: 124px;
+	height: 53.5px;
+	overflow: hidden;
+	font-family: Metropolis;
+	font-size: 25px;
+	text-align: left;
+	color:#6f6f6f;
+}
+
+#grupo_3 {
+	top: 0px;
+	left: 0px;
+	width: 37.747375488281px;
+	height: 39.478271484375px;
+}
+#grupo_4 {
+	top: 0px;
+	left: 0px;
+	width: 37.747375488281px;
+	height: 39.478271484375px;
+}
+
+#trazado_6 {
+	top: 0px;
+	left: 0px;
+	width: 37.747375488281px;
+	height: 39.478271484375px;
+}
+
+
+#trazado_7 {
+	top: 21px;
+	left: 9px;
+	width: 20.600891113281px;
+	height: 13.73600769043px;
+}
+
+
+#trazado_8 {
+	top: 9px;
+	left: 9px;
+	width: 20.589294433594px;
+	height: 6.0120391845703px;
+}
+
+
+#trazado_9 {
+	top: 15px;
+	left: 27px;
+	width: 1.7296752929688px;
+	height: 3.5003662109375px;
+}
+
+
+#trazado_10 {
+	top: 30px;
+	left: 12px;
+	width: 3.4505004882812px;
+	height: 1.7182006835938px;
+}
+
+
+#trazado_11 {
+	top: 30px;
+	left: 17px;
+	width: 3.4470825195312px;
+	height: 1.7065124511719px;
+}
+
+
+#trazado_12 {
+	top: 30px;
+	left: 22px;
+	width: 3.4495849609375px;
+	height: 1.7139892578125px;
+}
+
+#grupo_157 {
+	top: 98px;
+	left: 846.49578857422px;
+	width: 151.50421142578px;
+	height: 46px;
+}
+
+#_moda {
+	top: 10px;
+	left: 77px;
+	width: 93px;
+	height: 53.5px;
+	overflow: hidden;
+	font-family: Metropolis;
+	font-size: 25px;
+	text-align: left;
+	color:#6f6f6f;
+}
+
+#grupo_1 {
+	top: 0px;
+	left: 0px;
+	width: 33.296691894531px;
+	height: 38.871322631836px;
+}
+
+#trazado_1_ek1 {
+	top: 8px;
+	left: 0px;
+	width: 33.296691894531px;
+	height: 30.883392333984px;
+}
+
+
+#trazado_2_ek1 {
+	top: 0px;
+	left: 12px;
+	width: 9.0457153320312px;
+	height: 9.5484771728516px;
+}
+
+#grupo_158 {
+	top: 105.90593719482px;
+	left: 1031.4958496094px;
+	width: 169.50415039062px;
+	height: 39.094062805176px;
+}
+
+#_digital {
+	top: 3px;
+	left: 65px;
+	width: 123px;
+	height: 53.5px;
+	overflow: hidden;
+	font-family: Metropolis;
+	font-size: 25px;
+	text-align: left;
+	color:#6f6f6f;
+}
+
+#grupo_3_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 30.886474609375px;
+	height: 30.886421203613px;
+}
+#grupo_2 {
+	top: 0px;
+	left: 0px;
+	width: 30.886474609375px;
+	height: 30.886421203613px;
+}
+
+#trazado_3 {
+	top: 0px;
+	left: 0px;
+	width: 30.886474609375px;
+	height: 30.886421203613px;
+}
+
+
+#trazado_4 {
+	top: 10px;
+	left: 8px;
+	width: 3.800537109375px;
+	height: 3.7890853881836px;
+}
+
+
+#trazado_5 {
+	top: 10px;
+	left: 19px;
+	width: 3.80126953125px;
+	height: 3.7890625px;
+}
+
+#grupo_168 {
+	top: 320px;
+	left: 78px;
+	width: 1801px;
+	height: 773px;
+}
+
+#__descubre_el_mundo_del_taekwondo_ {
+	top: 87px;
+	left: -15px;
+	width: 925px;
+	height: 340px;
+	overflow: hidden;
+	font-family: Plastic Toys;
+	font-size: 90px;
+	text-align: center;
+	color:#ffffff;
+}
+
+
+#mono_mesa_de_trabajo_1 {
+	top: 242px;
+	left: 54px;
+	width: 413px;
+	height: 586px;
+}
+
+
+#dsc_2564_copia {
+	top: 0px;
+	left: 827px;
+	width: 974px;
+	height: 660px;
+}
+
+#grupo_34 {
+	top: 96.220306396484px;
+	left: 1784px;
+	width: 55.502563476562px;
+	height: 55.559387207031px;
+}
+
+#trazado_93 {
+	top: -0px;
+	left: 0px;
+	width: 55.502563476562px;
+	height: 55.559371948242px;
+}
+
+
+#trazado_94 {
+	top: 43px;
+	left: 38px;
+	width: 12.7548828125px;
+	height: 12.788482666016px;
+}
+
+#grupo_155 {
+	top: 69px;
+	left: 1257px;
+	width: 539px;
+	height: 111px;
+}
+
+#rect_ngulo_5 {
+	top: 29px;
+	left: 0px;
+	width: 473px;
+	height: 58px;
+	-ms-border-radius: 28px;
+	-o-border-radius: 28px;
+	-moz-border-radius: 28px;
+	-webkit-border-radius: 28px;
+	border-radius: 28px;
+	border: 1px solid #707070;
+	background:rgba(255,255,255,255);
+}
+
+
+#__qu__est_s_buscando_ {
+	top: 47px;
+	left: 115px;
+	width: 442px;
+	height: 53.5px;
+	overflow: hidden;
+	font-family: Metropolis;
+	font-size: 25px;
+	text-align: left;
+	color:#6f6f6f;
+}
+
+
+#iconos_03 {
+	top: 0px;
+	left: 367px;
+	width: 110px;
+	height: 111px;
+}
+
+#grupo_159 {
+	top: -24px;
+	left: 1501px;
+	width: 323px;
+	height: 112px;
+}
+
+#iconos_04 {
+	top: 0px;
+	left: 0px;
+	width: 111px;
+	height: 112px;
+}
+
+
+#iconos_05 {
+	top: 1px;
+	left: 67px;
+	width: 110px;
+	height: 111px;
+}
+
+
+#iconos_07 {
+	top: 0px;
+	left: 139px;
+	width: 111px;
+	height: 112px;
+}
+
+
+#iconos_06 {
+	top: 0px;
+	left: 213px;
+	width: 110px;
+	height: 112px;
+}
+
+
+
+/* Add your custom CSS here */

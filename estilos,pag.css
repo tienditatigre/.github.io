@@ -1,0 +1,815 @@
+/*
+	@name web_1920___3
+*/
+/* Only edit this if you know what you are doing! */
+body { margin: 0px; padding: 0px; font-family:"Arial"; overflow-x:hidden; }
+
+/* Only edit this if you know what you are doing! */
+img { position: absolute; display: block; margin: 0px; border: none; padding: 0px; }
+
+/* Only edit this if you know what you are doing! */
+div { position: absolute; }
+
+#content-container { display: table; position: relative; width: 1920px; width: 1920px; height: 1080px; overflow: hidden; display: block;  margin-left: auto; margin-right: auto;  }
+
+#_bg__web_1920___3 {
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 1080px;
+	background:rgba(255,255,255,255);
+}
+
+
+#rect_ngulo_51 {
+	top: 5px;
+	left: 2px;
+	width: 1922px;
+	height: 65px;
+	border: 1px solid #0089ff;
+	background:rgba(0,206,255,255);
+}
+
+
+#rect_ngulo_45 {
+	opacity:0.3302;
+	top: 260px;
+	left: 585px;
+	width: 428px;
+	height: 511px;
+	background:rgba(242,242,242,255);
+}
+
+
+#rect_ngulo_48 {
+	top: 69px;
+	left: -55px;
+	width: 2000px;
+	height: 121px;
+	-ms-box-shadow:0px 7px 10px 1px rgba(0,0,0,0.41);
+	-o-box-shadow:0px 7px 10px 1px rgba(0,0,0,0.41);
+	-webkit-box-shadow:0px 7px 10px 1px rgba(0,0,0,0.41);
+	-moz-box-shadow:0px 7px 10px 1px rgba(0,0,0,0.41);
+	box-shadow:0px 7px 10px 1px rgba(0,0,0,0.41);
+	background:rgba(255,255,255,255);
+}
+
+
+#rect_ngulo_21 {
+	opacity:0.2115;
+	top: 260px;
+	left: 636px;
+	width: 301px;
+	height: 280px;
+	-ms-box-shadow:20px 40px 45px 1px rgba(0,0,0,0.41);
+	-o-box-shadow:20px 40px 45px 1px rgba(0,0,0,0.41);
+	-webkit-box-shadow:20px 40px 45px 1px rgba(0,0,0,0.41);
+	-moz-box-shadow:20px 40px 45px 1px rgba(0,0,0,0.41);
+	box-shadow:20px 40px 45px 1px rgba(0,0,0,0.41);
+	background:rgba(255,255,255,255);
+}
+
+
+#set_de_etiqueta {
+	top: 573px;
+	left: 662px;
+	width: 287px;
+	height: 59.5px;
+	overflow: hidden;
+	font-family: Metropolis;
+	font-size: 35px;
+	text-align: left;
+	color:#0045ff;
+}
+
+
+#__35_00_mxn {
+	top: 620px;
+	left: 656px;
+	width: 273px;
+	height: 68px;
+	overflow: hidden;
+	font-family: Metropolis;
+	font-size: 40px;
+	font-weight: bold;
+	text-align: left;
+	color:#0045ff;
+}
+
+
+#precio_para_estudiantes_mdk {
+	top: 668px;
+	left: 652px;
+	width: 300px;
+	height: 34px;
+	overflow: hidden;
+	font-family: Metropolis;
+	font-size: 20px;
+	text-align: left;
+	line-height: 50px;
+	margin-top: -10px;
+	height: 54px;
+	color:#3c3a3a;
+}
+
+
+#trazado_103 {
+	top: 611.5px;
+	left: 652.5px;
+	width: 283px;
+	height: 1px;
+}
+
+
+#_rect_ngulo_46 {
+	top: 816px;
+	left: 1800px;
+	width: 132px;
+	height: 139px;
+	-ms-border-radius: 22px;
+	-o-border-radius: 22px;
+	-moz-border-radius: 22px;
+	-webkit-border-radius: 22px;
+	border-radius: 22px;
+	-ms-box-shadow:0px 20px 25px 1px rgba(0,0,0,0.41);
+	-o-box-shadow:0px 20px 25px 1px rgba(0,0,0,0.41);
+	-webkit-box-shadow:0px 20px 25px 1px rgba(0,0,0,0.41);
+	-moz-box-shadow:0px 20px 25px 1px rgba(0,0,0,0.41);
+	box-shadow:0px 20px 25px 1px rgba(0,0,0,0.41);
+	background:rgba(21,127,252,255);
+}
+
+#grupo_69 {
+	top: 838.5888671875px;
+	left: 1818.5888671875px;
+	width: 86.822265625px;
+	height: 86.9111328125px;
+}
+#grupo_34 {
+	top: 0px;
+	left: 0px;
+	width: 86.822509765625px;
+	height: 86.9111328125px;
+}
+
+#trazado_93 {
+	top: 0px;
+	left: 0px;
+	width: 86.822265625px;
+	height: 86.9111328125px;
+}
+
+
+#trazado_94 {
+	top: 67px;
+	left: 60px;
+	width: 19.95166015625px;
+	height: 20.0048828125px;
+}
+
+
+#mono_mesa_de_trabajo_1 {
+	top: 762px;
+	left: 1573px;
+	width: 274px;
+	height: 373px;
+}
+
+
+#__cont_ctanos__lunes_a_viernes_de_9_00_am_a_4_00_pm {
+	top: 28px;
+	left: 897px;
+	width: 544px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Metropolis;
+	font-size: 20px;
+	font-weight: bold;
+	text-align: left;
+	color:#ffffff;
+}
+
+#grupo_148 {
+	top: 103px;
+	left: 848.49584960938px;
+	width: 151.50415039062px;
+	height: 46px;
+}
+
+#moda {
+		top: 6px;
+	left: 62px;
+	width: 124px;
+	height: 53.5px;
+	overflow: hidden;
+	font-family: Metropolis;
+	font-size: 25px;
+	text-align: left;
+	color:#6f6f6f;
+}
+
+#grupo_70 {
+	top: 0px;
+	left: 0px;
+	width: 33.296630859375px;
+	height: 38.871337890625px;
+}
+
+#trazado_1 {
+	top: 8px;
+	left: 0px;
+	width: 33.296630859375px;
+	height: 30.883422851562px;
+}
+
+
+#trazado_2 {
+	top: 0px;
+	left: 12px;
+	width: 9.045654296875px;
+	height: 9.5484619140625px;
+}
+
+#grupo_71 {
+	top: 110.90600585938px;
+	left: 1033.4958496094px;
+	width: 30.886474609375px;
+	height: 30.886474609375px;
+}
+#grupo_2 {
+	top: 0px;
+	left: 0px;
+	width: 30.886474609375px;
+	height: 30.886474609375px;
+}
+
+#trazado_3 {
+	top: 0px;
+	left: 0px;
+	width: 30.886474609375px;
+	height: 30.886352539062px;
+}
+
+
+#trazado_4 {
+	top: 10px;
+	left: 8px;
+	width: 3.800537109375px;
+	height: 3.7890625px;
+}
+
+
+#trazado_5 {
+	top: 10px;
+	left: 19px;
+	width: 3.80126953125px;
+	height: 3.7890625px;
+}
+
+#grupo_72 {
+	top: 101.22021484375px;
+	left: 1786px;
+	width: 55.50244140625px;
+	height: 55.559448242188px;
+}
+#grupo_34_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 55.50244140625px;
+	height: 55.559326171875px;
+}
+
+#trazado_93_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 55.50244140625px;
+	height: 55.559326171875px;
+}
+
+
+#trazado_94_ek1 {
+	top: 43px;
+	left: 38px;
+	width: 12.7548828125px;
+	height: 12.78857421875px;
+}
+
+#grupo_150 {
+	top: 74px;
+	left: 1259px;
+	width: 539px;
+	height: 111px;
+}
+
+#rect_ngulo_50 {
+	top: 29px;
+	left: 0px;
+	width: 473px;
+	height: 58px;
+	-ms-border-radius: 28px;
+	-o-border-radius: 28px;
+	-moz-border-radius: 28px;
+	-webkit-border-radius: 28px;
+	border-radius: 28px;
+	border: 1px solid #707070;
+	background:rgba(255,255,255,255);
+}
+
+
+#__qu__est_s_buscando_ {
+	top: 47px;
+	left: 115px;
+	width: 442px;
+	height: 53.5px;
+	overflow: hidden;
+	font-family: Metropolis;
+	font-size: 25px;
+	text-align: left;
+	color:#6f6f6f;
+}
+
+
+#iconos_03 {
+	top: 0px;
+	left: 367px;
+	width: 110px;
+	height: 111px;
+}
+
+#grupo_151 {
+	top: -19px;
+	left: 1503px;
+	width: 323px;
+	height: 112px;
+}
+
+#iconos_04 {
+	top: 0px;
+	left: 0px;
+	width: 111px;
+	height: 112px;
+}
+
+
+#iconos_05 {
+	top: 1px;
+	left: 67px;
+	width: 110px;
+	height: 111px;
+}
+
+
+#iconos_07 {
+	top: 0px;
+	left: 139px;
+	width: 111px;
+	height: 112px;
+}
+
+
+#iconos_06 {
+	top: 0px;
+	left: 213px;
+	width: 110px;
+	height: 112px;
+}
+
+
+#_logo_tiendita1_02 {
+	top: 88px;
+	left: 106px;
+	width: 345px;
+	height: 82px;
+}
+
+
+#p_delo_en_l_nea__rec_belo_en_tu_doyang {
+	top: 24px;
+	left: 140px;
+	width: 780px;
+	height: 59.5px;
+	overflow: hidden;
+	font-family: Metropolis;
+	font-size: 35px;
+	font-weight: bold;
+	text-align: left;
+	color:#ffffff;
+}
+
+#grupo_147 {
+	top: 106.60998535156px;
+	left: 646.62646484375px;
+	width: 168.37353515625px;
+	height: 42.390014648438px;
+}
+
+#_escolar {
+	top: 6px;
+	left: 62px;
+	width: 124px;
+	height: 53.5px;
+	overflow: hidden;
+	font-family: Metropolis;
+	font-size: 25px;
+	text-align: left;
+	color:#6f6f6f;
+}
+
+#grupo_73 {
+	top: 0px;
+	left: 0px;
+	width: 37.747314453125px;
+	height: 39.478271484375px;
+}
+#grupo_4 {
+	top: 0px;
+	left: 0px;
+	width: 37.747314453125px;
+	height: 39.478271484375px;
+}
+
+#trazado_6 {
+	top: 0px;
+	left: 0px;
+	width: 37.747314453125px;
+	height: 39.478271484375px;
+}
+
+
+#trazado_7 {
+	top: 21px;
+	left: 9px;
+	width: 20.600830078125px;
+	height: 13.735961914062px;
+}
+
+
+#trazado_8 {
+	top: 9px;
+	left: 9px;
+	width: 20.58935546875px;
+	height: 6.0120849609375px;
+}
+
+
+#trazado_9 {
+	top: 15px;
+	left: 27px;
+	width: 1.729736328125px;
+	height: 3.5003662109375px;
+}
+
+
+#trazado_10 {
+	top: 30px;
+	left: 12px;
+	width: 3.45068359375px;
+	height: 1.7181396484375px;
+}
+
+
+#trazado_11 {
+	top: 30px;
+	left: 17px;
+	width: 3.447021484375px;
+	height: 1.7064208984375px;
+}
+
+
+#trazado_12 {
+	top: 30px;
+	left: 22px;
+	width: 3.44970703125px;
+	height: 1.7139892578125px;
+}
+
+#grupo_149 {
+	top: 110.90600585938px;
+	left: 1033.4958496094px;
+	width: 169.50415039062px;
+	height: 39.093994140625px;
+}
+
+#_digital {
+	top: 3px;
+	left: 65px;
+	width: 123px;
+	height: 53.5px;
+	overflow: hidden;
+	font-family: Metropolis;
+	font-size: 25px;
+	text-align: left;
+	color:#6f6f6f;
+}
+
+#grupo_86 {
+	top: 0px;
+	left: 0px;
+	width: 30.886474609375px;
+	height: 30.886474609375px;
+}
+#grupo_2_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 30.886474609375px;
+	height: 30.886474609375px;
+}
+
+#trazado_3_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 30.886474609375px;
+	height: 30.886352539062px;
+}
+
+
+#trazado_4_ek1 {
+	top: 10px;
+	left: 8px;
+	width: 3.800537109375px;
+	height: 3.7890625px;
+}
+
+
+#trazado_5_ek1 {
+	top: 10px;
+	left: 19px;
+	width: 3.80126953125px;
+	height: 3.7890625px;
+}
+
+#grupo_131 {
+	top: 272.67944335938px;
+	left: 111.42797851562px;
+	width: 351.48364257812px;
+	height: 726.31665039062px;
+}
+#grupo_127 {
+	top: 291px;
+	left: 6px;
+	width: 345.76977539062px;
+	height: 192.9833984375px;
+}
+#grupo_75 {
+	top: 0px;
+	left: 0px;
+	width: 72.64892578125px;
+	height: 72.648803710938px;
+}
+#cuadr_cula_de_repetici_n_3 {
+	top: 0px;
+	left: 0px;
+	width: 72.64892578125px;
+	height: 72.648803710938px;
+	overflow:hidden;
+}
+
+#rect_ngulo_3 {
+	top: 0px;
+	left: 0px;
+	width: 234px;
+	height: 234px;
+	background:rgba(204,255,251,255);
+}
+
+
+#precio {
+	top: 18px;
+	left: 99px;
+	width: 262px;
+	height: 34px;
+	overflow: hidden;
+	font-family: Almost Textual;
+	font-size: 20px;
+	text-align: left;
+	color:#0045ff;
+}
+
+
+#__ {
+	top: 18px;
+	left: 25px;
+	width: 65px;
+	height: 75.5px;
+	overflow: hidden;
+	font-family: Almost Textual;
+	font-size: 45px;
+	text-align: left;
+	color:#020b7b;
+}
+
+
+#trazado_111 {
+	top: 79px;
+	left: 7px;
+	width: 304.29028320312px;
+	height: 1px;
+}
+
+
+#___del_m_s_bajo_al_m_s_alto___del_m_s_alto_al_m_s_bajo___promociones___precio_estudiantes_mdk {
+	top: 101px;
+	left: 2px;
+	width: 345px;
+	height: 106px;
+	overflow: hidden;
+	font-family: Metropolis;
+	font-size: 20px;
+	text-align: left;
+	color:#626262;
+}
+
+#grupo_130 {
+	top: 672px;
+	left: 8px;
+	width: 320px;
+	height: 54px;
+}
+
+#rect_ngulo_47 {
+	top: 0px;
+	left: 0px;
+	width: 322px;
+	height: 56px;
+	-ms-border-radius: 27px;
+	-o-border-radius: 27px;
+	-moz-border-radius: 27px;
+	-webkit-border-radius: 27px;
+	border-radius: 27px;
+	border: 1px solid #707070;
+	background:rgba(21,127,252,0);
+}
+
+
+#filtrar_resultados {
+	top: 14px;
+	left: 35px;
+	width: 276px;
+	height: 51px;
+	overflow: hidden;
+	font-family: Metropolis;
+	font-size: 30px;
+	text-align: left;
+	color:#000000;
+}
+
+#grupo_129 {
+	top: 530px;
+	left: 2px;
+	width: 333.26513671875px;
+	height: 87.379028320312px;
+}
+
+#trazado_112 {
+	top: 11px;
+	left: 5px;
+	width: 304.29028320312px;
+	height: 3px;
+}
+
+
+#__0_00____750_00 {
+	top: 57px;
+	left: 3px;
+	width: 350px;
+	height: 51px;
+	overflow: hidden;
+	font-family: Metropolis;
+	font-size: 30px;
+	text-align: left;
+	color:#626262;
+}
+
+
+#rect_ngulo_52 {
+	top: 0px;
+	left: 0px;
+	width: 10px;
+	height: 21px;
+	background:rgba(29,0,255,255);
+}
+
+
+#rect_ngulo_49 {
+	top: 58px;
+	left: 299px;
+	width: 11px;
+	height: 22px;
+	background:rgba(29,0,255,255);
+}
+
+#grupo_128 {
+	top: 0px;
+	left: 0px;
+	width: 341.01977539062px;
+	height: 228.646484375px;
+}
+#grupo_74 {
+	top: 0px;
+	left: 0px;
+	width: 72.64892578125px;
+	height: 72.648803710938px;
+}
+#cuadr_cula_de_repetici_n_3_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 72.64892578125px;
+	height: 72.648803710938px;
+	overflow:hidden;
+}
+#__ek1 {
+	top: 0px;
+	left: 0px;
+	width: 234px;
+	height: 234px;
+}
+
+#rect_ngulo_3_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 234px;
+	height: 234px;
+	background:rgba(204,255,251,255);
+}
+
+
+#productos_digitales {
+	top: 0px;
+	left: 89px;
+	width: 262px;
+	height: 58px;
+	overflow: hidden;
+	font-family: Almost Textual;
+	font-size: 20px;
+	text-align: left;
+	color:#0045ff;
+}
+
+
+#trazado_110 {
+	top: 94px;
+	left: 16px;
+	width: 304.29028320312px;
+	height: 1px;
+}
+
+
+#___mochilas__5____l_pices__10____cuadernos__2____bolsas__cajas__5____borradores__1_ {
+	top: 113px;
+	left: 11px;
+	width: 345px;
+	height: 130px;
+	overflow: hidden;
+	font-family: Metropolis;
+	font-size: 20px;
+	text-align: left;
+	color:#626262;
+}
+
+#grupo_87 {
+	top: 19px;
+	left: 22px;
+	width: 30.886474609375px;
+	height: 30.886474609375px;
+}
+#grupo_2_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 30.886474609375px;
+	height: 30.886474609375px;
+}
+
+#trazado_3_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 30.886474609375px;
+	height: 30.886352539062px;
+}
+
+
+#trazado_4_ek2 {
+	top: 10px;
+	left: 8px;
+	width: 3.800537109375px;
+	height: 3.7890625px;
+}
+
+
+#trazado_5_ek2 {
+	top: 10px;
+	left: 19px;
+	width: 3.80126953125px;
+	height: 3.7890625px;
+}
+
+
+#_image_removebg_preview {
+	top: 324px;
+	left: 643px;
+	width: 254px;
+	height: 216px;
+}
+
+
+
+/* Add your custom CSS here */
